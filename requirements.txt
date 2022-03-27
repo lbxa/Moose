@@ -1,2 +1,8 @@
-asyncio
-websockets
+python-dotenv
+python-binance
+websocket_client
+numpy
+simple_chalk
+ta
+pandas
+pandas-ta

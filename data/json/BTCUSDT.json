@@ -1,0 +1,1174 @@
+{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921482118,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299200,
+        "open_price": "42213.12000000",
+        "close_price": "42213.13000000",
+        "high_price": "42213.13000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "0.60307000",
+        "number_of_trades": 25,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "25457.46678880",
+        "taker_buy_base_asset_volume": "0.05104000",
+        "taker_buy_quote_asset_volume": "2154.55815520"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921484194,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299218,
+        "open_price": "42213.12000000",
+        "close_price": "42213.13000000",
+        "high_price": "42213.13000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "0.97539000",
+        "number_of_trades": 43,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "41174.25617810",
+        "taker_buy_base_asset_volume": "0.10613000",
+        "taker_buy_quote_asset_volume": "4480.07948690"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921486924,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299280,
+        "open_price": "42213.12000000",
+        "close_price": "42218.94000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "2.75653000",
+        "number_of_trades": 105,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "116366.36798150",
+        "taker_buy_base_asset_volume": "0.96121000",
+        "taker_buy_quote_asset_volume": "40576.80499000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921488952,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299298,
+        "open_price": "42213.12000000",
+        "close_price": "42218.95000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "3.30437000",
+        "number_of_trades": 123,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "139495.59698540",
+        "taker_buy_base_asset_volume": "1.45264000",
+        "taker_buy_quote_asset_volume": "61324.46358850"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921491600,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299310,
+        "open_price": "42213.12000000",
+        "close_price": "42218.94000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "3.80328000",
+        "number_of_trades": 135,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "160559.04882410",
+        "taker_buy_base_asset_volume": "1.50097000",
+        "taker_buy_quote_asset_volume": "63364.90544200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921493828,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299330,
+        "open_price": "42213.12000000",
+        "close_price": "42218.94000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "4.52118000",
+        "number_of_trades": 155,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "190868.02913220",
+        "taker_buy_base_asset_volume": "1.82918000",
+        "taker_buy_quote_asset_volume": "77221.58702150"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921495913,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299350,
+        "open_price": "42213.12000000",
+        "close_price": "42218.94000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "5.04736000",
+        "number_of_trades": 175,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "213082.79141150",
+        "taker_buy_base_asset_volume": "1.87219000",
+        "taker_buy_quote_asset_volume": "79037.42406100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921498099,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299368,
+        "open_price": "42213.12000000",
+        "close_price": "42216.93000000",
+        "high_price": "42218.95000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "5.59967000",
+        "number_of_trades": 193,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "236400.17375530",
+        "taker_buy_base_asset_volume": "1.89187000",
+        "taker_buy_quote_asset_volume": "79868.25344020"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921500261,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299431,
+        "open_price": "42213.12000000",
+        "close_price": "42223.99000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "9.59779000",
+        "number_of_trades": 256,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "405198.33248900",
+        "taker_buy_base_asset_volume": "5.74189000",
+        "taker_buy_quote_asset_volume": "242413.81387810"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921502267,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299466,
+        "open_price": "42213.12000000",
+        "close_price": "42221.12000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "10.86331000",
+        "number_of_trades": 291,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "458632.55111730",
+        "taker_buy_base_asset_volume": "6.25684000",
+        "taker_buy_quote_asset_volume": "264156.10168730"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921504304,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299478,
+        "open_price": "42213.12000000",
+        "close_price": "42221.12000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "11.48234000",
+        "number_of_trades": 303,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "484768.69134800",
+        "taker_buy_base_asset_volume": "6.28855000",
+        "taker_buy_quote_asset_volume": "265494.93371960"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921506356,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299490,
+        "open_price": "42213.12000000",
+        "close_price": "42221.12000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "12.12989000",
+        "number_of_trades": 315,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "512108.97886370",
+        "taker_buy_base_asset_volume": "6.41452000",
+        "taker_buy_quote_asset_volume": "270813.52946570"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921508400,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299525,
+        "open_price": "42213.12000000",
+        "close_price": "42216.98000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "12.88476000",
+        "number_of_trades": 350,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "543978.41971280",
+        "taker_buy_base_asset_volume": "6.90583000",
+        "taker_buy_quote_asset_volume": "291555.35050340"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921510656,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299546,
+        "open_price": "42213.12000000",
+        "close_price": "42213.68000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "13.35962000",
+        "number_of_trades": 371,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "564024.39329150",
+        "taker_buy_base_asset_volume": "7.05314000",
+        "taker_buy_quote_asset_volume": "297773.85455390"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921512837,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299559,
+        "open_price": "42213.12000000",
+        "close_price": "42213.68000000",
+        "high_price": "42224.00000000",
+        "low_price": "42213.12000000",
+        "base_asset_volume": "13.81896000",
+        "number_of_trades": 384,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "583414.82166110",
+        "taker_buy_base_asset_volume": "7.17232000",
+        "taker_buy_quote_asset_volume": "302804.88093630"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921515022,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299603,
+        "open_price": "42213.12000000",
+        "close_price": "42206.86000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.85000000",
+        "base_asset_volume": "15.31169000",
+        "number_of_trades": 428,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "646426.69338830",
+        "taker_buy_base_asset_volume": "7.48069000",
+        "taker_buy_quote_asset_volume": "315821.47787420"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921517331,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299628,
+        "open_price": "42213.12000000",
+        "close_price": "42206.26000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "16.16837000",
+        "number_of_trades": 453,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "682584.08149830",
+        "taker_buy_base_asset_volume": "7.72936000",
+        "taker_buy_quote_asset_volume": "326316.91386120"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921519334,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299638,
+        "open_price": "42213.12000000",
+        "close_price": "42206.27000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "16.36128000",
+        "number_of_trades": 463,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "690726.09140690",
+        "taker_buy_base_asset_volume": "7.75856000",
+        "taker_buy_quote_asset_volume": "327549.33694520"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921521455,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299658,
+        "open_price": "42213.12000000",
+        "close_price": "42206.27000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "16.73732000",
+        "number_of_trades": 483,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "706597.33644460",
+        "taker_buy_base_asset_volume": "8.06129000",
+        "taker_buy_quote_asset_volume": "340326.44106230"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921523477,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299675,
+        "open_price": "42213.12000000",
+        "close_price": "42206.27000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "17.40376000",
+        "number_of_trades": 500,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "734725.27638510",
+        "taker_buy_base_asset_volume": "8.06390000",
+        "taker_buy_quote_asset_volume": "340436.59942700"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921525795,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299689,
+        "open_price": "42213.12000000",
+        "close_price": "42206.26000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "17.98803000",
+        "number_of_trades": 514,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "759385.12918200",
+        "taker_buy_base_asset_volume": "8.19057000",
+        "taker_buy_quote_asset_volume": "345782.86764790"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921528075,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299701,
+        "open_price": "42213.12000000",
+        "close_price": "42206.27000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "18.34003000",
+        "number_of_trades": 526,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "774241.73329390",
+        "taker_buy_base_asset_volume": "8.24976000",
+        "taker_buy_quote_asset_volume": "348281.05676920"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921530300,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299718,
+        "open_price": "42213.12000000",
+        "close_price": "42206.27000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.26000000",
+        "base_asset_volume": "18.95757000",
+        "number_of_trades": 543,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "800305.78750960",
+        "taker_buy_base_asset_volume": "8.29129000",
+        "taker_buy_quote_asset_volume": "350033.88316230"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921532476,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299741,
+        "open_price": "42213.12000000",
+        "close_price": "42206.00000000",
+        "high_price": "42224.00000000",
+        "low_price": "42206.00000000",
+        "base_asset_volume": "19.15186000",
+        "number_of_trades": 566,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "808506.04030250",
+        "taker_buy_base_asset_volume": "8.34290000",
+        "taker_buy_quote_asset_volume": "352212.14859840"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921534481,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299787,
+        "open_price": "42213.12000000",
+        "close_price": "42203.96000000",
+        "high_price": "42224.00000000",
+        "low_price": "42203.96000000",
+        "base_asset_volume": "20.47812000",
+        "number_of_trades": 612,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "864480.79552090",
+        "taker_buy_base_asset_volume": "8.48176000",
+        "taker_buy_quote_asset_volume": "358072.85323640"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921536582,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299807,
+        "open_price": "42213.12000000",
+        "close_price": "42203.97000000",
+        "high_price": "42224.00000000",
+        "low_price": "42203.96000000",
+        "base_asset_volume": "21.32900000",
+        "number_of_trades": 632,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "900391.30499940",
+        "taker_buy_base_asset_volume": "8.88113000",
+        "taker_buy_quote_asset_volume": "374927.85273530"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921538596,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299831,
+        "open_price": "42213.12000000",
+        "close_price": "42205.43000000",
+        "high_price": "42224.00000000",
+        "low_price": "42203.96000000",
+        "base_asset_volume": "21.93597000",
+        "number_of_trades": 656,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "926008.24791950",
+        "taker_buy_base_asset_volume": "9.21735000",
+        "taker_buy_quote_asset_volume": "389117.68161330"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921540002,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 1300299176,
+        "last_trade_id": 1300299855,
+        "open_price": "42213.12000000",
+        "close_price": "42205.43000000",
+        "high_price": "42224.00000000",
+        "low_price": "42203.96000000",
+        "base_asset_volume": "22.99031000",
+        "number_of_trades": 680,
+        "is_this_kline_closed": true,
+        "quote_asset_volume": "970507.12392750",
+        "taker_buy_base_asset_volume": "9.51153000",
+        "taker_buy_quote_asset_volume": "401533.67795250"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921542114,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300299908,
+        "open_price": "42205.43000000",
+        "close_price": "42204.49000000",
+        "high_price": "42205.44000000",
+        "low_price": "42204.49000000",
+        "base_asset_volume": "1.86310000",
+        "number_of_trades": 53,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "78631.89865370",
+        "taker_buy_base_asset_volume": "1.29095000",
+        "taker_buy_quote_asset_volume": "54484.32253820"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921544113,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300299927,
+        "open_price": "42205.43000000",
+        "close_price": "42204.37000000",
+        "high_price": "42205.44000000",
+        "low_price": "42204.37000000",
+        "base_asset_volume": "2.61568000",
+        "number_of_trades": 72,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "110394.15027490",
+        "taker_buy_base_asset_volume": "1.31583000",
+        "taker_buy_quote_asset_volume": "55534.36999180"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921546117,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300299952,
+        "open_price": "42205.43000000",
+        "close_price": "42203.12000000",
+        "high_price": "42205.44000000",
+        "low_price": "42203.12000000",
+        "base_asset_volume": "3.40168000",
+        "number_of_trades": 97,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "143566.32900370",
+        "taker_buy_base_asset_volume": "1.33508000",
+        "taker_buy_quote_asset_volume": "56346.80394430"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921548128,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300011,
+        "open_price": "42205.43000000",
+        "close_price": "42203.19000000",
+        "high_price": "42205.44000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "4.99743000",
+        "number_of_trades": 156,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "210909.95465220",
+        "taker_buy_base_asset_volume": "2.73707000",
+        "taker_buy_quote_asset_volume": "115513.33332360"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921550129,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300085,
+        "open_price": "42205.43000000",
+        "close_price": "42209.00000000",
+        "high_price": "42211.99000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "9.78249000",
+        "number_of_trades": 230,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "412879.79038510",
+        "taker_buy_base_asset_volume": "4.38776000",
+        "taker_buy_quote_asset_volume": "185181.06880860"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921552172,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300116,
+        "open_price": "42205.43000000",
+        "close_price": "42205.60000000",
+        "high_price": "42211.99000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "10.48688000",
+        "number_of_trades": 261,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "442609.87061760",
+        "taker_buy_base_asset_volume": "4.80961000",
+        "taker_buy_quote_asset_volume": "202985.89237060"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921554252,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300155,
+        "open_price": "42205.43000000",
+        "close_price": "42205.60000000",
+        "high_price": "42211.99000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "11.61408000",
+        "number_of_trades": 300,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "490184.02941450",
+        "taker_buy_base_asset_volume": "5.45730000",
+        "taker_buy_quote_asset_volume": "230322.04391150"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921556255,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300176,
+        "open_price": "42205.43000000",
+        "close_price": "42205.60000000",
+        "high_price": "42211.99000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "12.17576000",
+        "number_of_trades": 321,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "513890.07165340",
+        "taker_buy_base_asset_volume": "5.54039000",
+        "taker_buy_quote_asset_volume": "233828.90804640"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921558301,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300205,
+        "open_price": "42205.43000000",
+        "close_price": "42205.61000000",
+        "high_price": "42211.99000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "12.97640000",
+        "number_of_trades": 350,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "547681.56616800",
+        "taker_buy_base_asset_volume": "5.83345000",
+        "taker_buy_quote_asset_volume": "246197.68411300"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921560322,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300288,
+        "open_price": "42205.43000000",
+        "close_price": "42213.13000000",
+        "high_price": "42213.13000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "16.90153000",
+        "number_of_trades": 433,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "713362.25636560",
+        "taker_buy_base_asset_volume": "9.44984000",
+        "taker_buy_quote_asset_volume": "398846.70466530"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921562336,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300350,
+        "open_price": "42205.43000000",
+        "close_price": "42221.99000000",
+        "high_price": "42222.00000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "19.46064000",
+        "number_of_trades": 495,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "821401.29965410",
+        "taker_buy_base_asset_volume": "11.44884000",
+        "taker_buy_quote_asset_volume": "483238.44932510"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921564343,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300368,
+        "open_price": "42205.43000000",
+        "close_price": "42221.99000000",
+        "high_price": "42222.00000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "20.16948000",
+        "number_of_trades": 513,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "851329.93729330",
+        "taker_buy_base_asset_volume": "11.67360000",
+        "taker_buy_quote_asset_volume": "492728.26604510"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921566430,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300423,
+        "open_price": "42205.43000000",
+        "close_price": "42223.99000000",
+        "high_price": "42224.00000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "21.73850000",
+        "number_of_trades": 568,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "917577.26458820",
+        "taker_buy_base_asset_volume": "12.53981000",
+        "taker_buy_quote_asset_volume": "529301.41814810"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921568452,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300478,
+        "open_price": "42205.43000000",
+        "close_price": "42225.00000000",
+        "high_price": "42225.00000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "23.97934000",
+        "number_of_trades": 623,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1012193.46654110",
+        "taker_buy_base_asset_volume": "13.58253000",
+        "taker_buy_quote_asset_volume": "573328.52447640"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921570459,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300504,
+        "open_price": "42205.43000000",
+        "close_price": "42226.70000000",
+        "high_price": "42226.71000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "24.63142000",
+        "number_of_trades": 649,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1039728.62430320",
+        "taker_buy_base_asset_volume": "13.79948000",
+        "taker_buy_quote_asset_volume": "582489.57925930"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921572467,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300533,
+        "open_price": "42205.43000000",
+        "close_price": "42229.96000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "25.30205000",
+        "number_of_trades": 678,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1068048.33266780",
+        "taker_buy_base_asset_volume": "14.18264000",
+        "taker_buy_quote_asset_volume": "598669.47713490"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921574474,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300561,
+        "open_price": "42205.43000000",
+        "close_price": "42229.96000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "26.22703000",
+        "number_of_trades": 706,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1107110.20114780",
+        "taker_buy_base_asset_volume": "14.19056000",
+        "taker_buy_quote_asset_volume": "599003.93849730"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921576714,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300612,
+        "open_price": "42205.43000000",
+        "close_price": "42229.97000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "28.37262000",
+        "number_of_trades": 757,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1197715.25022340",
+        "taker_buy_base_asset_volume": "15.07133000",
+        "taker_buy_quote_asset_volume": "636197.13143180"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921578750,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300628,
+        "open_price": "42205.43000000",
+        "close_price": "42229.97000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "28.81529000",
+        "number_of_trades": 773,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1216409.18855170",
+        "taker_buy_base_asset_volume": "15.26484000",
+        "taker_buy_quote_asset_volume": "644369.05292650"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921581247,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300666,
+        "open_price": "42205.43000000",
+        "close_price": "42229.96000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "29.98995000",
+        "number_of_trades": 811,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1266015.03761260",
+        "taker_buy_base_asset_volume": "15.68957000",
+        "taker_buy_quote_asset_volume": "662305.38808460"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921583304,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300684,
+        "open_price": "42205.43000000",
+        "close_price": "42229.97000000",
+        "high_price": "42229.97000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "30.28209000",
+        "number_of_trades": 829,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1278352.09913920",
+        "taker_buy_base_asset_volume": "15.79079000",
+        "taker_buy_quote_asset_volume": "666579.90564800"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921585376,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300738,
+        "open_price": "42205.43000000",
+        "close_price": "42235.61000000",
+        "high_price": "42235.61000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "31.37084000",
+        "number_of_trades": 883,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1324331.09008190",
+        "taker_buy_base_asset_volume": "16.56576000",
+        "taker_buy_quote_asset_volume": "699307.48416900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921587380,
+        "symbol": "BTCUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 1300299856,
+        "last_trade_id": 1300300765,
+        "open_price": "42205.43000000",
+        "close_price": "42236.86000000",
+        "high_price": "42236.86000000",
+        "low_price": "42201.50000000",
+        "base_asset_volume": "32.07772000",
+        "number_of_trades": 910,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1354187.18942270",
+        "taker_buy_base_asset_volume": "16.77978000",
+        "taker_buy_quote_asset_volume": "708346.91356560"
+    }
+}

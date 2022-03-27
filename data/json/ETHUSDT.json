@@ -1,0 +1,1128 @@
+{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921482019,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704814,
+        "open_price": "3007.88000000",
+        "close_price": "3007.33000000",
+        "high_price": "3007.88000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "17.58430000",
+        "number_of_trades": 56,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "52886.14398700",
+        "taker_buy_base_asset_volume": "5.25370000",
+        "taker_buy_quote_asset_volume": "15799.64020000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921484917,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704842,
+        "open_price": "3007.88000000",
+        "close_price": "3007.57000000",
+        "high_price": "3007.88000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "23.75800000",
+        "number_of_trades": 84,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "71452.90893700",
+        "taker_buy_base_asset_volume": "10.52400000",
+        "taker_buy_quote_asset_volume": "31649.36424300"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921487924,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704879,
+        "open_price": "3007.88000000",
+        "close_price": "3008.00000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "26.52650000",
+        "number_of_trades": 121,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "79779.78099600",
+        "taker_buy_base_asset_volume": "13.27990000",
+        "taker_buy_quote_asset_volume": "39938.34104600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921489929,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704904,
+        "open_price": "3007.88000000",
+        "close_price": "3007.83000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "32.83540000",
+        "number_of_trades": 146,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "98756.13531400",
+        "taker_buy_base_asset_volume": "17.03690000",
+        "taker_buy_quote_asset_volume": "51238.75487200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921492230,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704921,
+        "open_price": "3007.88000000",
+        "close_price": "3007.82000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "34.71400000",
+        "number_of_trades": 163,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "104406.63603200",
+        "taker_buy_base_asset_volume": "18.04350000",
+        "taker_buy_quote_asset_volume": "54266.43655000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921494693,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704966,
+        "open_price": "3007.88000000",
+        "close_price": "3007.83000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "46.57860000",
+        "number_of_trades": 208,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "140094.05683000",
+        "taker_buy_base_asset_volume": "28.74440000",
+        "taker_buy_quote_asset_volume": "86453.65721400"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921496702,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786704978,
+        "open_price": "3007.88000000",
+        "close_price": "3007.96000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "55.11240000",
+        "number_of_trades": 220,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "165762.56220500",
+        "taker_buy_base_asset_volume": "37.09130000",
+        "taker_buy_quote_asset_volume": "111559.98035800"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921498705,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705018,
+        "open_price": "3007.88000000",
+        "close_price": "3007.57000000",
+        "high_price": "3008.00000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "62.95850000",
+        "number_of_trades": 260,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "189362.27842100",
+        "taker_buy_base_asset_volume": "38.80020000",
+        "taker_buy_quote_asset_volume": "116699.62020200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921500963,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705064,
+        "open_price": "3007.88000000",
+        "close_price": "3008.33000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "73.03970000",
+        "number_of_trades": 306,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "219684.13635200",
+        "taker_buy_base_asset_volume": "48.85030000",
+        "taker_buy_quote_asset_volume": "146927.92352100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921503164,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705103,
+        "open_price": "3007.88000000",
+        "close_price": "3007.58000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "109.62380000",
+        "number_of_trades": 345,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "329730.12820900",
+        "taker_buy_base_asset_volume": "66.60200000",
+        "taker_buy_quote_asset_volume": "200323.06957200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921505726,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705111,
+        "open_price": "3007.88000000",
+        "close_price": "3007.59000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "110.24780000",
+        "number_of_trades": 353,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "331606.86111800",
+        "taker_buy_base_asset_volume": "66.90090000",
+        "taker_buy_quote_asset_volume": "201222.03822300"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921507732,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705159,
+        "open_price": "3007.88000000",
+        "close_price": "3007.33000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "131.59130000",
+        "number_of_trades": 401,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "395797.63315200",
+        "taker_buy_base_asset_volume": "71.69390000",
+        "taker_buy_quote_asset_volume": "215636.20280900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921509990,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705182,
+        "open_price": "3007.88000000",
+        "close_price": "3007.32000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.32000000",
+        "base_asset_volume": "134.20980000",
+        "number_of_trades": 424,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "403672.31939700",
+        "taker_buy_base_asset_volume": "73.57640000",
+        "taker_buy_quote_asset_volume": "221297.50153400"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921512584,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705194,
+        "open_price": "3007.88000000",
+        "close_price": "3007.30000000",
+        "high_price": "3008.33000000",
+        "low_price": "3007.30000000",
+        "base_asset_volume": "136.86860000",
+        "number_of_trades": 436,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "411668.14810800",
+        "taker_buy_base_asset_volume": "74.72390000",
+        "taker_buy_quote_asset_volume": "224748.38975900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921514620,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705219,
+        "open_price": "3007.88000000",
+        "close_price": "3006.53000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.52000000",
+        "base_asset_volume": "143.12870000",
+        "number_of_trades": 461,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "430492.58336300",
+        "taker_buy_base_asset_volume": "77.13900000",
+        "taker_buy_quote_asset_volume": "232010.04559400"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921516620,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705235,
+        "open_price": "3007.88000000",
+        "close_price": "3006.53000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.52000000",
+        "base_asset_volume": "157.87440000",
+        "number_of_trades": 477,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "474825.84862700",
+        "taker_buy_base_asset_volume": "79.46900000",
+        "taker_buy_quote_asset_volume": "239015.26049400"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921518657,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705250,
+        "open_price": "3007.88000000",
+        "close_price": "3006.52000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.52000000",
+        "base_asset_volume": "162.42720000",
+        "number_of_trades": 492,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "488513.94175800",
+        "taker_buy_base_asset_volume": "80.35650000",
+        "taker_buy_quote_asset_volume": "241683.55586900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921520965,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705269,
+        "open_price": "3007.88000000",
+        "close_price": "3006.53000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.52000000",
+        "base_asset_volume": "165.30790000",
+        "number_of_trades": 511,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "497174.84412200",
+        "taker_buy_base_asset_volume": "82.37650000",
+        "taker_buy_quote_asset_volume": "247756.74646900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921522985,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705280,
+        "open_price": "3007.88000000",
+        "close_price": "3006.51000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.50000000",
+        "base_asset_volume": "178.40170000",
+        "number_of_trades": 522,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "536541.61479200",
+        "taker_buy_base_asset_volume": "82.40550000",
+        "taker_buy_quote_asset_volume": "247843.93525900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921526067,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705300,
+        "open_price": "3007.88000000",
+        "close_price": "3006.13000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.13000000",
+        "base_asset_volume": "192.26850000",
+        "number_of_trades": 542,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "578227.22463000",
+        "taker_buy_base_asset_volume": "84.37650000",
+        "taker_buy_quote_asset_volume": "253769.03719900"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921528160,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705304,
+        "open_price": "3007.88000000",
+        "close_price": "3006.14000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.13000000",
+        "base_asset_volume": "193.30760000",
+        "number_of_trades": 546,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "581350.90451200",
+        "taker_buy_base_asset_volume": "85.39640000",
+        "taker_buy_quote_asset_volume": "256834.99938500"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921530168,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705310,
+        "open_price": "3007.88000000",
+        "close_price": "3006.13000000",
+        "high_price": "3008.33000000",
+        "low_price": "3006.13000000",
+        "base_asset_volume": "193.95610000",
+        "number_of_trades": 552,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "583300.38577700",
+        "taker_buy_base_asset_volume": "85.99240000",
+        "taker_buy_quote_asset_volume": "258626.65882500"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921532261,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705335,
+        "open_price": "3007.88000000",
+        "close_price": "3005.35000000",
+        "high_price": "3008.33000000",
+        "low_price": "3005.35000000",
+        "base_asset_volume": "197.35400000",
+        "number_of_trades": 577,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "593513.10271700",
+        "taker_buy_base_asset_volume": "86.57420000",
+        "taker_buy_quote_asset_volume": "260375.17909100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921534339,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705441,
+        "open_price": "3007.88000000",
+        "close_price": "3005.00000000",
+        "high_price": "3008.33000000",
+        "low_price": "3004.84000000",
+        "base_asset_volume": "222.29980000",
+        "number_of_trades": 683,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "668475.40570100",
+        "taker_buy_base_asset_volume": "96.30770000",
+        "taker_buy_quote_asset_volume": "289624.34659100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921536347,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705510,
+        "open_price": "3007.88000000",
+        "close_price": "3004.99000000",
+        "high_price": "3008.33000000",
+        "low_price": "3004.84000000",
+        "base_asset_volume": "280.18120000",
+        "number_of_trades": 752,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "842420.14917100",
+        "taker_buy_base_asset_volume": "129.79910000",
+        "taker_buy_quote_asset_volume": "390264.43805600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921538452,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705531,
+        "open_price": "3007.88000000",
+        "close_price": "3005.66000000",
+        "high_price": "3008.33000000",
+        "low_price": "3004.84000000",
+        "base_asset_volume": "292.84290000",
+        "number_of_trades": 773,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "880471.82279100",
+        "taker_buy_base_asset_volume": "137.00230000",
+        "taker_buy_quote_asset_volume": "411910.39440000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921540001,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921480000,
+        "kline_close_time": 1647921539999,
+        "interval": "1m",
+        "first_trade_id": 786704759,
+        "last_trade_id": 786705565,
+        "open_price": "3007.88000000",
+        "close_price": "3005.81000000",
+        "high_price": "3008.33000000",
+        "low_price": "3004.84000000",
+        "base_asset_volume": "299.06170000",
+        "number_of_trades": 807,
+        "is_this_kline_closed": true,
+        "quote_asset_volume": "899163.95672800",
+        "taker_buy_base_asset_volume": "140.54120000",
+        "taker_buy_quote_asset_volume": "422547.42244100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921542113,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705618,
+        "open_price": "3005.80000000",
+        "close_price": "3005.15000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.83000000",
+        "base_asset_volume": "30.51700000",
+        "number_of_trades": 53,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "91715.97208700",
+        "taker_buy_base_asset_volume": "7.88370000",
+        "taker_buy_quote_asset_volume": "23690.04994600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921544273,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705629,
+        "open_price": "3005.80000000",
+        "close_price": "3005.15000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.83000000",
+        "base_asset_volume": "35.16440000",
+        "number_of_trades": 64,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "105682.15263400",
+        "taker_buy_base_asset_volume": "12.52740000",
+        "taker_buy_quote_asset_volume": "37645.11143800"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921546274,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705658,
+        "open_price": "3005.80000000",
+        "close_price": "3005.16000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.83000000",
+        "base_asset_volume": "46.72100000",
+        "number_of_trades": 93,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "140411.52230600",
+        "taker_buy_base_asset_volume": "17.84560000",
+        "taker_buy_quote_asset_volume": "53627.15335000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921548349,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705710,
+        "open_price": "3005.80000000",
+        "close_price": "3005.16000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.71000000",
+        "base_asset_volume": "56.72300000",
+        "number_of_trades": 145,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "170466.89066900",
+        "taker_buy_base_asset_volume": "25.57480000",
+        "taker_buy_quote_asset_volume": "76852.83788600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921550646,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705769,
+        "open_price": "3005.80000000",
+        "close_price": "3004.71000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.70000000",
+        "base_asset_volume": "87.42130000",
+        "number_of_trades": 204,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "262729.07377200",
+        "taker_buy_base_asset_volume": "33.24270000",
+        "taker_buy_quote_asset_volume": "99896.21415200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921552720,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705820,
+        "open_price": "3005.80000000",
+        "close_price": "3004.64000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "97.97190000",
+        "number_of_trades": 255,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "294428.04683200",
+        "taker_buy_base_asset_volume": "36.02890000",
+        "taker_buy_quote_asset_volume": "108267.21311100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921554723,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705873,
+        "open_price": "3005.80000000",
+        "close_price": "3004.71000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "105.37100000",
+        "number_of_trades": 308,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "316659.93538300",
+        "taker_buy_base_asset_volume": "41.53020000",
+        "taker_buy_quote_asset_volume": "124796.79557400"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921556789,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705902,
+        "open_price": "3005.80000000",
+        "close_price": "3004.71000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "112.96020000",
+        "number_of_trades": 337,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "339463.28051500",
+        "taker_buy_base_asset_volume": "49.11940000",
+        "taker_buy_quote_asset_volume": "147600.14070600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921558933,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786705972,
+        "open_price": "3005.80000000",
+        "close_price": "3005.07000000",
+        "high_price": "3005.81000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "161.46400000",
+        "number_of_trades": 407,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "485217.51758500",
+        "taker_buy_base_asset_volume": "56.52230000",
+        "taker_buy_quote_asset_volume": "169844.34810200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921560996,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706057,
+        "open_price": "3005.80000000",
+        "close_price": "3005.69000000",
+        "high_price": "3005.94000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "207.84460000",
+        "number_of_trades": 492,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "624602.54344400",
+        "taker_buy_base_asset_volume": "69.57090000",
+        "taker_buy_quote_asset_volume": "209058.18626300"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921563171,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706107,
+        "open_price": "3005.80000000",
+        "close_price": "3005.99000000",
+        "high_price": "3005.99000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "217.47610000",
+        "number_of_trades": 542,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "653552.77166900",
+        "taker_buy_base_asset_volume": "76.24000000",
+        "taker_buy_quote_asset_volume": "229103.73233100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921565181,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706165,
+        "open_price": "3005.80000000",
+        "close_price": "3005.55000000",
+        "high_price": "3006.00000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "239.92110000",
+        "number_of_trades": 600,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "721013.08324200",
+        "taker_buy_base_asset_volume": "87.03160000",
+        "taker_buy_quote_asset_volume": "261538.02910600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921567240,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706326,
+        "open_price": "3005.80000000",
+        "close_price": "3005.34000000",
+        "high_price": "3006.14000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "359.64920000",
+        "number_of_trades": 761,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1080922.55427200",
+        "taker_buy_base_asset_volume": "111.79760000",
+        "taker_buy_quote_asset_volume": "335979.17590200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921569702,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706413,
+        "open_price": "3005.80000000",
+        "close_price": "3006.51000000",
+        "high_price": "3006.52000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "383.31250000",
+        "number_of_trades": 848,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1152049.98176600",
+        "taker_buy_base_asset_volume": "132.10190000",
+        "taker_buy_quote_asset_volume": "397007.81002100"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921571735,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706432,
+        "open_price": "3005.80000000",
+        "close_price": "3006.43000000",
+        "high_price": "3006.52000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "385.18330000",
+        "number_of_trades": 867,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1157674.10944500",
+        "taker_buy_base_asset_volume": "133.13020000",
+        "taker_buy_quote_asset_volume": "400099.08158800"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921574129,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706502,
+        "open_price": "3005.80000000",
+        "close_price": "3006.71000000",
+        "high_price": "3006.71000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "392.86600000",
+        "number_of_trades": 937,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1180771.72166100",
+        "taker_buy_base_asset_volume": "140.17350000",
+        "taker_buy_quote_asset_volume": "421274.38246200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921576133,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706562,
+        "open_price": "3005.80000000",
+        "close_price": "3005.84000000",
+        "high_price": "3006.71000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "415.93480000",
+        "number_of_trades": 997,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1250127.65384200",
+        "taker_buy_base_asset_volume": "146.15900000",
+        "taker_buy_quote_asset_volume": "439267.91219200"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921578160,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706615,
+        "open_price": "3005.80000000",
+        "close_price": "3005.84000000",
+        "high_price": "3006.71000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "423.15290000",
+        "number_of_trades": 1050,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1271824.10663400",
+        "taker_buy_base_asset_volume": "153.28590000",
+        "taker_buy_quote_asset_volume": "460690.23328800"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921580165,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706684,
+        "open_price": "3005.80000000",
+        "close_price": "3006.71000000",
+        "high_price": "3006.71000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "437.41290000",
+        "number_of_trades": 1119,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1314695.68264300",
+        "taker_buy_base_asset_volume": "162.49480000",
+        "taker_buy_quote_asset_volume": "488375.20236600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921582205,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706734,
+        "open_price": "3005.80000000",
+        "close_price": "3006.79000000",
+        "high_price": "3006.79000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "449.21850000",
+        "number_of_trades": 1169,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1350192.55217900",
+        "taker_buy_base_asset_volume": "167.99020000",
+        "taker_buy_quote_asset_volume": "504898.68874600"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921584208,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706762,
+        "open_price": "3005.80000000",
+        "close_price": "3007.00000000",
+        "high_price": "3007.00000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "455.65180000",
+        "number_of_trades": 1197,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1369537.03132200",
+        "taker_buy_base_asset_volume": "171.98230000",
+        "taker_buy_quote_asset_volume": "516902.58165000"
+    }
+}{
+    "meta": {
+        "event_type": "kline",
+        "event_time": 1647921586219,
+        "symbol": "ETHUSDT"
+    },
+    "markets": {
+        "kline_start_time": 1647921540000,
+        "kline_close_time": 1647921599999,
+        "interval": "1m",
+        "first_trade_id": 786705566,
+        "last_trade_id": 786706826,
+        "open_price": "3005.80000000",
+        "close_price": "3007.57000000",
+        "high_price": "3007.57000000",
+        "low_price": "3004.17000000",
+        "base_asset_volume": "472.91510000",
+        "number_of_trades": 1261,
+        "is_this_kline_closed": false,
+        "quote_asset_volume": "1421453.87185000",
+        "taker_buy_base_asset_volume": "181.87140000",
+        "taker_buy_quote_asset_volume": "546642.19054500"
+    }
+}
